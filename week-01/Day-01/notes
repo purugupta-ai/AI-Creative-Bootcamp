@@ -1,0 +1,74 @@
+Assignment 1 (Theory)
+Write a one-page summary in your own words covering:
+1.	What is AI? 
+2.	What is Machine Learning? 
+3.	What is Deep Learning? 
+4.	What is Generative AI? 
+5.	Difference between an LLM and a Diffusion M
+Understanding AI, ML, Deep Learning, and Generative AI
+1. What is AI?
+Artificial Intelligence (AI) is the broad idea of building machines or software that can perform tasks which normally require human intelligence — things like recognizing images, understanding language, making decisions, or solving problems. AI isn't one single technology; it's an umbrella term that covers everything from simple rule-based systems (like a chatbot that follows a fixed script) to advanced systems that can learn and adapt on their own.
+2. What is Machine Learning?
+Machine Learning (ML) is a subset of AI. Instead of a programmer writing exact rules for every situation, ML systems learn patterns from data. For example, if you feed a system thousands of emails labeled "spam" or "not spam," it learns to spot spam on its own, without being explicitly told what makes an email spammy. The more (and better) data it sees, the more accurate it usually becomes.
+3. What is Deep Learning?
+Deep Learning is a further subset of Machine Learning that uses "neural networks" — structures loosely inspired by how neurons in the human brain connect and pass signals. These networks have many layers (hence "deep"), which allows them to automatically discover complex patterns in large amounts of data, like recognizing faces in photos or understanding speech. Deep learning is what powers most of today's cutting-edge AI, including image recognition and language models.
+4. What is Generative AI?
+Generative AI is a category of AI (usually built using deep learning) that doesn't just analyze or classify data — it creates new content. This could be text, images, music, code, or video. Tools like ChatGPT (text) or Midjourney (images) are examples. Instead of just answering "is this a cat or a dog," generative AI can produce a brand-new paragraph, picture, or piece of music based on what it has learned from existing examples.
+5. Difference between an LLM and a Diffusion Model
+•	A Large Language Model (LLM) is trained on massive amounts of text and specializes in understanding and generating language. It works by predicting the next word (or "token") in a sequence, one step at a time, which lets it write essays, answer questions, or hold conversations. Examples: GPT, Claude, Gemini.
+•	A Diffusion Model is mainly used to generate images (and increasingly audio/video). It works very differently — it starts with random noise and gradually "cleans it up" step by step until a coherent image appears, guided by a text description. Examples: Stable Diffusion, DALL•E, Midjourney.
+In short: LLMs are built for language and reasoning; diffusion models are built for generating visual (or audio) content from noise.
+6. Three Ways AI Could Help a Coaching Institute
+1.	Personalized learning paths – AI can analyze each student's strengths and weaknesses from test results and recommend customized practice material, helping slower learners catch up and advanced learners move ahead.
+2.	Automated doubt-solving and support – A chatbot trained on the institute's syllabus can answer common student queries instantly, 24/7, reducing the workload on teachers for repetitive questions.
+3.	Smarter administration and analytics – AI can help track attendance, predict which students are at risk of dropping out or underperforming, and generate performance reports automatically, saving staff hours of manual work.
+
+
+Assignment 2 (Research)
+Find one example each of:
+•	An AI image tool 
+•	An AI video tool 
+•	An AI coding tool 
+•	An AI presentation tool 
+•	An AI website builder 
+•	An AI voice tool 
+For each, write:
+•	What it does 
+•	Whether it's free, paid, or open source 
+•	One strength 
+•	One limitation
+Here's the research summary for Assignment 2, in plain language you can adapt:
+________________________________________
+1. AI Image Tool — Midjourney
+•	What it does: Generates images from text prompts, producing highly detailed, artistic, and photorealistic visuals. Also supports image-to-video generation.
+•	Pricing: Paid only — plans range from $10/month (Basic) to $120/month (Mega), with a 20% discount on annual billing. There is no free trial anymore. Tech Jacks Solutions
+•	Strength: Produces some of the most visually striking and aesthetically refined images among AI generators, especially for artistic or conceptual work.
+•	Limitation: Pricing is based on GPU processing time rather than a simple image count, which can make costs unpredictable, and there's no free tier to test it first.
+2. AI Video Tool — Runway
+•	What it does: Creates and edits videos using AI — including text-to-video, image-to-video, video inpainting, and green-screen removal. Popular with filmmakers and content creators for quick prototyping.
+•	Pricing: Freemium — a limited free tier exists, with paid plans for more generation credits and higher-resolution output.
+•	Strength: Very fast way to visualize ideas or storyboards without needing filming equipment or actors.
+•	Limitation: Output length and consistency (e.g., character faces staying the same across frames) is still limited compared to traditional video production.
+3. AI Coding Tool — GitHub Copilot
+•	What it does: Acts as an AI pair-programmer inside code editors, suggesting code completions, writing functions, and explaining code through chat.
+•	Pricing: Freemium — the free tier gives 2,000 code completions per month plus limited chat and agent access, while paid plans start at $10/month for individuals and $19/user/month for business teams. No Code MBA
+•	Strength: Speeds up coding significantly by predicting and auto-completing code, reducing repetitive typing.
+•	Limitation: Can produce code that looks correct but has subtle bugs or security issues, so it still requires human review.
+4. AI Presentation Tool — Gamma
+•	What it does: Automatically generates presentation slides (and documents/webpages) from a simple text prompt or outline, including layout, images, and design.
+•	Pricing: Freemium — free plan with limited credits; paid plans unlock more generations and export options.
+•	Strength: Saves a lot of time on formatting and design — you can go from an idea to a polished-looking deck in minutes.
+•	Limitation: Design customization is more restrictive than tools like PowerPoint; complex or highly branded decks may need manual touch-up.
+5. AI Website Builder — Framer AI
+•	What it does: Generates a complete website (layout, content, and design) from a text description, which can then be edited visually without coding.
+•	Pricing: Freemium — free plan for basic sites; paid plans needed for custom domains and advanced features.
+•	Strength: Lets non-coders launch a professional-looking website very quickly.
+•	Limitation: Complex functionality (e.g., custom backend logic, advanced integrations) still requires manual development or third-party tools.
+6. AI Voice Tool — ElevenLabs
+•	What it does: Converts text into realistic, natural-sounding speech in multiple voices and languages; also allows voice cloning.
+•	Pricing: Freemium — free tier with limited monthly characters; paid plans scale up usage and unlock voice cloning.
+•	Strength: Extremely realistic voice output, useful for narration, dubbing, and accessibility tools.
+•	Limitation: Voice cloning raises ethical and misuse concerns (e.g., impersonation), and heavy usage gets expensive quickly on paid tiers.
+
+
+
