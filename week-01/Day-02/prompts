@@ -1,0 +1,135 @@
+Assignment 2 – Prompt Improvement
+
+Improve these prompts using today's framework:
+
+Prompt 1
+
+Make a logo.
+
+Prompt 2
+
+Create a website.
+
+Prompt 3
+
+Write an article.
+
+For each one, specify:
+
+Role
+Task
+Context
+Constraints
+Desired output
+
+Prompt 2
+
+ROLE
+You are an senior expert designer
+TASK
+Create logo
+CONTEXT
+For designer cloth brand
+CONSTRAINTS
+Modern design pattern
+Do not copy from existing logos
+Green and yello color combination
+OUTPUT FORMAT
+Provide detailed image generation prompt
+
+Image Generation Prompt:
+"A modern, minimalist logo for a high-end designer clothing brand, designed in a clean vector style suitable for fashion branding. The logo features an abstract, geometric monogram-style mark combining sharp angular lines with one fluid curved element, symbolizing sophistication and creativity. Color palette: a rich emerald green paired with a bold mustard-yellow accent, used in a balanced 70/30 ratio to keep the design elegant rather than loud. The mark should feel premium, timeless, and scalable — working equally well as a small tag on clothing and as a large storefront sign. Typography (if included) should be a modern sans-serif or thin-weight custom lettering, uppercase, with generous letter spacing for a luxury feel. The overall composition should be symmetrical or have refined balance, set on a clean white or transparent background, with no gradients, no photorealistic elements, no clutter — flat design, high contrast, negative space used intentionally. Style reference: contemporary fashion-house branding (avant-garde, boutique, editorial) — original and distinct, not resembling any existing brand logos. Deliver as a clean, isolated vector-style icon suitable for embroidery, print, and digital use."
+
+A few things worth deciding before generating:
+
+Do you want a wordmark (brand name in stylized text), a symbol/icon only, or a combination mark (icon + text)?
+Any specific brand name or initials you'd like reflected in the design?
+
+Let me know and I can tighten the prompt further, or I can render a first visual draft of this logo directly if you'd like to see options.
+
+Prompt 2
+
+ROLE
+You are an senior website designer
+TASK
+Create website
+CONTEXT
+For fashion brand which produce contemporary, designer and customised clothes for all age groups. Listing existing inventory. Customers can do sale purchase 
+consultation feature added.
+CONSTRAINTS
+Modern design pattern
+Do not copy from existing website
+Subtle colors
+Simple and interative website 
+User friendly 
+Adjustable to open in phone, laptop, tab etc 
+can handle heavy user load
+OUTPUT FORMAT
+Provide detailed website generation prompt
+
+Website Generation Prompt:
+"Design a modern, elegant e-commerce website for a fashion brand that creates contemporary, designer, and customised clothing for all age groups. The site should feel premium yet approachable — blending boutique sophistication with everyday usability.
+Structure & Pages:
+
+Homepage with a hero banner showcasing seasonal/featured collections, a brief brand story section, and category highlights (Men, Women, Kids, Customised)
+Inventory/Shop page with filterable product listings (by category, age group, size, color, price) and a clean grid layout with hover-preview effects
+Individual product pages showing multiple images, size/color selection, price, availability, and an 'Add to Cart' / 'Buy Now' flow
+A dedicated 'Customisation' page where users can request tailored/made-to-order clothing, including a simple form or step-by-step configurator (fabric, fit, measurements, style preferences)
+A 'Consultation' feature allowing customers to book a styling/design consultation — via a calendar-based scheduling widget or a request form connecting them with a stylist
+Cart and secure checkout flow supporting standard sale/purchase transactions
+About, Contact, and Customer Support pages
+User account area for order history, saved items, and consultation bookings
+
+Design Style:
+
+Subtle, muted color palette (soft neutrals like sand, ivory, sage, or muted taupe — avoid loud or saturated colors) with one understated accent tone for CTAs
+Clean modern typography — a refined serif for headings paired with a minimal sans-serif for body text
+Generous white space, high-quality product photography as the visual focus, minimal decorative clutter
+Smooth micro-interactions (hover effects, subtle transitions, fade-ins) to keep the experience interactive without feeling busy
+
+Technical Requirements:
+
+Fully responsive design that adapts seamlessly across mobile, tablet, laptop, and desktop screens (mobile-first approach)
+Intuitive, accessible navigation with a simple menu structure, clear breadcrumbs, and prominent search bar
+Optimized for performance and scalability to handle high concurrent user traffic (efficient image loading, caching, lazy-loading for product grids, CDN-ready architecture)
+Secure checkout and payment integration, with clear trust signals (SSL, payment icons, return policy visibility)
+Original design system — do not replicate the layout, visual identity, or component styling of any existing fashion e-commerce website; the design should feel distinct and true to this brand's own identity.
+
+Overall tone: understated luxury, effortless usability, and a shopping experience that feels personal — especially given the customisation and consultation offerings."
+
+Prompt 3
+ROLE
+You are an senior writer
+TASK
+Create article
+CONTEXT
+For fashion brand which produce contemporary, designer and customised clothes for all age groups. Introduction of brand.Listing its latest innovations and outfits. Participations in fashion shows.
+Showcase the latest awards the brand got in fashion shows.
+CONSTRAINTS
+Modern layout
+Do not copy from existing one's
+simple and precise language
+Maximum 300 words. 
+Max 4-5 paragraphs.
+Well structured and appropriate flow.
+OUTPUT FORMAT
+Provide detailed article generation prompt
+
+Article Generation Prompt:
+"Write a modern, engaging brand article (maximum 300 words, 4–5 paragraphs) introducing a fashion brand that creates contemporary, designer, and customised clothing for all age groups. The article should flow naturally through the following structure:
+Paragraph 1 — Brand Introduction: Introduce the brand's identity, philosophy, and what sets it apart — its focus on contemporary design, personalised/customised fashion, and inclusivity across age groups. Keep the tone confident but warm.
+Paragraph 2 — Latest Innovations & Outfits: Highlight the brand's newest collection or design innovations (e.g., sustainable fabrics, made-to-measure technology, new silhouettes or seasonal themes). Describe the outfits in simple, vivid, precise language without overusing adjectives.
+Paragraph 3 — Fashion Show Participation: Describe the brand's recent participation in one or more notable fashion shows or runway events, capturing the energy and reception of the showcase.
+Paragraph 4 — Awards & Recognition: Showcase any awards or accolades the brand has recently received at fashion shows or industry events, framing them as validation of its creative direction.
+Paragraph 5 (optional closing) — Forward Look: End with a brief, confident note on what's next for the brand — upcoming collections, shows, or vision for the future.
+Style requirements:
+
+Simple, precise, and modern language — no jargon, no clichés, no overly ornate prose
+Short, punchy sentences mixed with slightly longer ones for natural rhythm
+Structured with clear paragraph breaks (no run-on blocks of text)
+Strictly stay within 300 words total
+Original content only — do not mirror the structure, phrasing, or style of existing fashion brand articles or press releases
+Tone: confident, contemporary, and aspirational, but grounded and readable — not overly promotional or salesy"
+
+
+
