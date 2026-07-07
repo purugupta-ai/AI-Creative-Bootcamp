@@ -1,0 +1,110 @@
+Mentor Challenge ⭐
+
+You teach mathematics.
+
+Create a prompt that would generate:
+
+A complete Class 10 mathematics lesson
+A 10-question quiz
+An answer key
+A homework assignment
+Three real-life applications of the topic
+
+
+Role:
+You are senior Mathematics Teacher or expert
+
+Task:
+Create Class 10th Mathematics lesson on Arithmetic Progression
+
+Audience:
+
+Students class 10th and Class 10th Teachers
+
+Topic: Arithmetic Progression
+
+Learning Objectives: 
+Make students understand  the concept of Arithmetic Progression along with its application.
+Theory + Paractice questions including few case studies.
+The questions and theory level must be from simple to difficult.
+
+Tone: Easy to understand
+
+Length: Cover all possible topics of Arithmetic progression keeping 10th class in context.
+
+Constraints:
+Must contain 10 questions Quiz and its answer key
+Homework assignment for each topics
+3-4 case studies on real life applications
+
+Output Format:
+
+Generate prompt to create complete mathematics lesson as instructed above.
+
+
+
+
+
+Generation Prompt:
+"Role: You are a senior Mathematics teacher and curriculum expert with years of experience teaching Class 10 students.
+Task: Create a complete, self-contained mathematics lesson on Arithmetic Progression (AP) designed for Class 10 students and usable directly by Class 10 teachers in the classroom.
+Audience: Class 10 students (age ~15) and their mathematics teachers.
+Learning Objectives:
+
+Help students clearly understand what an Arithmetic Progression is, how to identify one, and how to work with its core formulas.
+Build the concept progressively — from recognizing patterns, to writing the general term, to summing a series, to applying AP in real-world and case-study contexts.
+Ensure students can move confidently from simple recall questions to higher-order application and problem-solving questions.
+
+Content Requirements — cover ALL of the following sub-topics, explained simply with examples:
+
+Introduction: what is a sequence, and what makes it an Arithmetic Progression
+First term (a) and common difference (d) — how to identify them
+General term / nth term formula: aₙ = a + (n−1)d
+Sum of first n terms: Sₙ = n/2 [2a + (n−1)d] (and the alternate form using the last term)
+Finding a specific term, or working backward to find 'n' or 'd'
+Arithmetic Mean between two numbers
+Real-life patterns that form an AP (savings, seating arrangements, stacking, etc.)
+Common mistakes students make (e.g., confusing nth term with sum formula, sign errors with negative d)
+
+Structure the output into these clearly labeled sections:
+
+Complete Lesson (Theory + Worked Examples)
+
+Explain each concept in easy, everyday language (avoid heavy jargon)
+Include at least one solved example per sub-topic, progressing from simple to moderately difficult
+Use short real-life analogies to build intuition (e.g., stacking chairs, monthly savings, stadium seating rows)
+
+
+10-Question Quiz
+
+Must contain exactly 10 questions
+Difficulty should progress: 3 easy (direct formula application), 4 medium (multi-step problems), 3 difficult (word problems / reasoning-based)
+Mix of question types: fill-in-the-blank, direct computation, and short word problems
+
+
+Answer Key
+
+Provide complete step-by-step solutions for all 10 quiz questions, not just final answers
+
+
+Homework Assignment
+
+Provide a separate set of practice questions for EACH sub-topic listed above (so students practice every concept individually)
+Include a mix of difficulty levels within the homework, similar to the quiz
+
+
+Real-Life Case Studies (3–4 total)
+
+Present 3 to 4 short real-world scenarios where Arithmetic Progression naturally applies (e.g., a person's savings increasing monthly, seats arranged in an auditorium, a loan being repaid in equal installments, patterns in construction/stacking)
+Each case study should include a short situational description, a question based on it, and guidance on how AP concepts solve it
+
+
+
+Tone & Style:
+
+Simple, encouraging, classroom-friendly language — as if explained by a patient, experienced teacher
+Difficulty must progress smoothly from simple to difficult across the entire lesson, quiz, and homework
+Use clear formatting (headings, numbered steps) so both students and teachers can navigate easily
+
+Length: Comprehensive enough to serve as a complete standalone lesson — do not skip any sub-topic listed above, even if it makes the output long."
+
