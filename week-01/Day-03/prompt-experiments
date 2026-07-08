@@ -1,0 +1,401 @@
+
+1. Create Logo
+
+Initial prompt 
+Role: 
+You are an expert logo designer
+
+Objective:
+Create logo for fashion brand who manufacture garments
+
+Background:
+Old Brand but restructuring itself.
+
+Target Audience:
+Luxury class
+
+Requirements:
+Subtle colors 
+Must add tag line below the logo
+
+Constraints:
+Only subtle colors
+Must not use any animal image
+
+Output Format:
+Generate strong prompt to design logo keping this template in mind.
+
+Evaluation Criteria:
+Must not copy other existing logos avilable.
+Size of the image must be usable in all platforms.
+
+Refined Prompt:
+
+Role:
+You are an expert logo designer specializing in luxury fashion branding.
+Objective:
+Create a logo for a fashion brand that manufactures garments, reflecting sophistication, heritage, and modern refinement.
+Background:
+The brand is an old, established fashion house that is currently undergoing a restructuring, transitioning from its legacy identity into a more contemporary visual presence while retaining its sense of heritage and craftsmanship.
+Target Audience:
+Luxury-class consumers who value understated elegance, quality craftsmanship, and timeless design over bold or trend-driven aesthetics.
+Requirements:
+
+Use only subtle, muted, and sophisticated colors (e.g., ivory, beige, muted charcoal, dusty taupe, deep muted navy) — no bright, saturated, or high-contrast tones
+Logo mark must be an abstract, textile-inspired symbol (evoking a fabric fold, drape, weave, or stitch line) in clean geometric strokes — not a literal illustration
+Typography: refined serif or slim modern sans-serif, uppercase, wide letter spacing (placeholder brand name: "MAISON NOIRE")
+Must include a tagline placed directly below the main wordmark, in a smaller, lighter-weight font, with clear visual hierarchy (placeholder tagline: "Est. [Year] — Tailored Heritage")
+Composition should be centered and symmetrical: abstract symbol on top, wordmark below, tagline beneath that
+Background: solid white or transparent, flat vector style — no gradients, drop shadows, or photorealistic textures
+
+Constraints:
+
+No animal imagery of any kind
+Only subtle/muted colors — no bright, neon, or high-contrast palettes
+No intricate or overly detailed elements that would be lost at small scale
+
+Output Format:
+Generate a detailed logo design (or image generation prompt) following the above template — deliverable as a clean, isolated vector-style design, provided in formats suitable for embroidery, print, storefront signage, app icons, and digital/social media use (square and horizontal-lockup versions).
+Evaluation Criteria:
+
+Design must be entirely original and must not copy, replicate, or closely resemble any existing brand logo
+Final image/design must be usable and legible across all platforms and sizes — from small tags to large signage — without loss of clarity
+
+
+2. Make a website.
+
+ROLE
+
+You are an senior website designer
+
+Objective
+
+Create website
+
+Background
+
+For fashion brand which produce contemporary, designer and customised clothes for all age groups. 
+
+
+Requirements
+Modern design pattern
+List existing inventory. 
+Customers can do sale purchase 
+consultation feature added.
+Subtle colors
+Simple and interative website 
+User friendly 
+
+CONSTRAINTS
+
+Use only subtle pastle colors
+Payment options must be through Razorpay
+
+
+OUTPUT FORMAT
+
+Provide detailed website generation prompt
+
+Evaluation Criteria:
+Adjustable to open in phone, laptop, tab etc 
+No copy paste from existing website designs
+can handle heavy user load
+
+
+Refined Prompt
+
+Here's the updated prompt with the Target Audience section added, and Requirements slightly adjusted to reflect a more luxury-focused sensibility:
+
+Role:
+You are a senior website designer with expertise in e-commerce and fashion retail platforms, skilled in translating brand identity into functional, scalable digital experiences.
+Objective:
+Design and generate a complete, production-ready website for a fashion brand — covering visual design, page structure, core functionality, and technical architecture.
+Background:
+The brand produces contemporary, designer, and customised clothing for all age groups (kids, teens, adults, seniors). It needs an online presence that balances boutique sophistication with everyday accessibility, supporting three core customer journeys: browsing the catalogue, completing purchases, and booking personalised styling consultations. The brand is positioning itself as approachable luxury — refined, but not intimidating.
+Target Audience:
+Luxury-class consumers who expect a premium, exclusive shopping experience — customers who value craftsmanship, personalised service, and refined aesthetics over budget-driven or mass-market shopping cues. The website should feel like a private boutique experience translated online, not a generic retail store.
+Requirements:
+Design & Navigation
+
+Modern, clean design pattern with a minimal, intuitive top navigation bar (Home, Shop, Customisation, Consultation, About, Contact, Account)
+Sticky header with search bar and cart icon always visible
+Consistent visual rhythm using generous white space, refined grid-based layouts, and an overall unhurried, premium browsing pace
+
+Inventory & Shop
+
+Dedicated Shop/Inventory page listing all existing products in a responsive grid, presented with an editorial, lookbook-style feel rather than a dense retail grid
+Filters for category (Men/Women/Kids), age group, size, color, and price range
+Sorting options (newest, price low-high, popularity)
+Product cards showing image, name, price, and quick "add to cart" on hover, with elegant, understated hover reveals
+
+Purchase Flow
+
+Individual product detail pages with multiple high-quality images, size/color selectors, stock availability, and rich description (materials, craftsmanship details)
+Shopping cart with quantity adjustment and price summary
+Secure, seamless checkout flow integrated with Razorpay for payment processing
+Order confirmation and email/SMS notification triggers, written in a refined, personal tone
+
+Consultation Feature
+
+Dedicated Consultation page allowing customers to book a personal styling/design session, positioned as a white-glove, concierge-style service
+Simple form (name, contact, preferred date/time, style preferences) or an embedded calendar-based scheduling widget
+Confirmation message/email after booking, reflecting a personalised, attentive tone
+
+Customisation Feature
+
+Dedicated Customisation page where users can configure made-to-order garments (fabric, fit, measurements, style preferences) via a step-by-step form or configurator, emphasizing exclusivity and craftsmanship
+
+Interactivity & UX
+
+Smooth, subtle hover effects, fade-in transitions, and refined micro-interactions on buttons, product cards, and menus — nothing flashy or attention-grabbing
+Mobile-friendly touch interactions (swipeable image galleries, collapsible filters)
+Clear, minimal-step checkout (ideally 3 steps or fewer: cart → details → payment), designed to feel effortless and unhurried
+
+Full Page List
+Homepage, Shop/Inventory, Product Detail, Customisation, Consultation, Cart/Checkout, About, Contact, User Account/Order History
+Color & Visual Style
+
+Strictly soft pastel palette: blush pink, powder blue, sage green, soft lilac, cream — used as base tones with one muted accent color for CTAs (buttons, highlights)
+Refined typography: a soft serif or minimal sans-serif for headings, clean sans-serif for body text — conveying elegance and exclusivity
+High-quality, editorial-style product photography as the primary visual focus; minimal decorative elements, ample negative space to reinforce a premium feel
+
+Constraints:
+
+Color usage must remain strictly within the subtle pastel range specified — no bold, dark, neon, or highly saturated colors anywhere in the UI, including buttons, banners, and icons
+All payment processing must be handled exclusively through Razorpay — no other payment gateway should be referenced or integrated
+No stock template layouts — every section must be uniquely structured for this brand, avoiding generic mass-market e-commerce patterns
+
+Output Format:
+Generate a complete, structured website specification/prompt — including page-by-page layout description, component list (header, filters, product cards, forms, checkout flow), color and typography guidelines, and technical/backend requirements — formatted so it can be directly fed into an AI website-generation tool (e.g., Framer AI, 10Web, or similar) to produce a functional, ready-to-launch site.
+Evaluation Criteria:
+
+The generated website must be fully responsive, rendering correctly and adjusting layout seamlessly across mobile phones, tablets, laptops, and desktop screens
+The design must be entirely original — no duplication or close resemblance to the layout, visual identity, or structural pattern of any existing fashion e-commerce website
+The site's architecture must be scalable and optimized to handle heavy concurrent user traffic without slowdowns (efficient image loading, caching strategy, CDN-readiness, backend scalability)
+Razorpay integration must function correctly within the checkout flow, and the pastel color constraint must be visibly and consistently applied across all pages
+The overall experience must feel aligned with luxury-class expectations — premium, exclusive, and personalised rather than mass-market
+
+3. Generate a YouTube thumbnail
+
+Initial Prompt
+
+ROLE
+
+You are an senior thumbnail designer for youtube
+
+Objective
+
+Create eye catching YouTube Thumnail for educational channel of mathematics	
+
+Background
+Launcing new channel to teach mathematics concepts from class 9th to 12th through Youtube videos.
+ 
+Target Audience:
+Students from class 9th to 12th
+
+Requirements
+Modern design pattern.
+Eye catching colors and images
+Text on thumbnail must be catchy.
+Concept shown on thumbnail must be classic not cheap.
+
+CONSTRAINTS
+
+Do not use any aggressive, abusive and offensive language
+Its only for CBSE students.
+It should not contain any copyright material
+
+
+OUTPUT FORMAT
+
+Provide detailed YouTube Thumbnail generation prompt
+
+Evaluation Criteria:
+Size adjustable for youtube 
+color combination
+
+Refined prompt:
+
+
+Role:
+You are a senior thumbnail designer creating visuals for YouTube.
+Objective:
+Create a single, eye-catching YouTube thumbnail image for an educational mathematics channel.
+Background:
+The thumbnail is for a new channel teaching math concepts for Class 9th to 12th (CBSE curriculum), and needs to stand out in a crowded YouTube feed while looking credible and classic, not cheap or clickbait-y.
+Target Audience:
+Students from Class 9th to 12th (CBSE board) browsing YouTube for math learning content.
+Requirements:
+
+Composition: a clean, elegant dark green chalkboard background with subtle chalk-dust texture
+Central visual elements: a graph curve, a geometric triangle, and an elegant equation rendered in white chalk-style typography, arranged asymmetrically on the left two-thirds of the frame
+Bold text overlay on the right side reading "Master Algebra in Minutes!" in a clean modern sans-serif font, in bright white and golden-yellow lettering, large and highly legible even at small sizes
+A small badge/tag in one corner reading "CBSE | Class 9-12" in a clean rounded rectangle
+A generic, stylized, non-identifiable silhouette of a student sitting with a notebook, placed subtly in the bottom-left corner for relatability
+Color palette: deep forest green, chalk white, warm golden yellow, and charcoal black
+Style: flat design, clean lines, modern educational branding, clean vector-illustration aesthetic, professional and trustworthy
+
+Constraints:
+
+No gradients, clutter, or cartoonish/cheap-looking elements
+No copyrighted logos, characters, or brand elements of any kind
+No real, identifiable human faces — silhouette/illustration only
+No aggressive, offensive, or inappropriate imagery or language
+
+Output Format:
+A single, high-contrast, sharp-focus YouTube thumbnail image, sized 1280x720 pixels (16:9 aspect ratio), legible and eye-catching even as a small mobile preview thumbnail (append --ar 16:9 if generating via Midjourney).
+Evaluation Criteria:
+
+Thumbnail must remain legible and eye-catching even as a small mobile preview
+Color combination must be bold and attention-grabbing yet classic and professional, not cheap or over-saturated
+Design must be original with no resemblance to existing channel branding or copyrighted material
+
+4. Explain AI.
+ROLE
+
+You are an senior AI expert and Mentor
+
+Objective
+
+Detailed write up or tutrial about AI	
+
+Background
+Tutorial must be for the users who are new to AI
+ 
+Target Audience:
+College students
+
+Requirements
+Introduction
+Core concept of AI
+Application of AI
+Real Life Examples
+Add suitable diagrams to explain concept
+Word limit : 1000
+
+
+CONSTRAINTS
+
+Do not use any aggressive, abusive and offensive language
+Its only for students.
+
+
+OUTPUT FORMAT
+
+Provide detailed prompt to generate text about the AI
+
+Evaluation Criteria:
+
+Must be in simple and easy to understand language which even beginner can also understand
+
+Refined Prompt
+
+Role:
+You are a senior AI expert and mentor, skilled at simplifying complex technical concepts for beginners.
+Objective:
+Write a detailed, easy-to-follow tutorial/write-up introducing Artificial Intelligence to complete beginners.
+Background:
+This tutorial is meant for readers who have no prior technical background in AI and are encountering these concepts for the first time. It should build understanding from the ground up, using plain language and relatable comparisons rather than jargon.
+Target Audience:
+College students with little to no prior exposure to AI, machine learning, or related technical fields.
+Requirements:
+
+Introduction: A simple, engaging opening explaining what AI is and why it matters today
+Core Concepts of AI: Explain foundational ideas (e.g., AI, Machine Learning, Deep Learning) in simple terms, showing how they relate to one another
+Applications of AI: Cover key areas where AI is used (e.g., healthcare, education, entertainment, transportation, business)
+Real-Life Examples: Include everyday, relatable examples students would recognize (e.g., Netflix recommendations, Google Maps, voice assistants, ChatGPT)
+Diagrams: Include suitable diagrams or visual descriptions to explain core concepts (e.g., a diagram showing AI → ML → Deep Learning as nested circles, or a simple flow diagram of how AI makes a decision)
+Word limit: Strictly 1000 words total
+Structure the write-up with clear headings for each section so it's easy to navigate
+
+Constraints:
+
+Do not use any aggressive, abusive, or offensive language
+Content must remain appropriate and relevant specifically for a student audience — no unrelated technical tangents or overly advanced jargon
+
+Output Format:
+A well-structured, standalone tutorial/article (within 1000 words) with clear section headings, simple explanations, real-life examples, and at least one described/illustrated diagram — ready to be published or shared as a beginner-friendly AI learning resource.
+Evaluation Criteria:
+
+Language must be simple and easy to understand, accessible even to a complete beginner with no technical background
+Concepts must build logically from basic to slightly more advanced, without losing clarity at any point
+Diagrams/visuals must genuinely aid understanding, not just decorate the text
+
+5. Create a marketing campaign.
+
+ROLE
+
+You are an senior marketing manager and planning expert
+
+Objective
+
+Detailed plan of market capaign for launcing new style garments by a luxury fashion brand	
+
+Background
+Brand is struggling position itself in market hence launcing new unique style garments and want to come up with stupendous marketing campaign to position itself in market.
+ 
+Target Audience:
+Medium income group - Females
+
+Requirements
+
+Include physical campaign , digital campaign both
+Focus on north India
+add launching discounts wherever possible
+must reach sub-urb areas nearby urban areas as well
+
+
+
+CONSTRAINTS
+
+Its strictly for female customer age group 25 to 50
+
+Funds for expenditure on campaign - 50 Lakh
+
+Do not target - villages
+
+
+
+OUTPUT FORMAT
+
+Provide detailed prompt to generate plan about the Market campaign
+
+Evaluation Criteria:
+
+Marketing campaign must yield some profit and yield some customers during campaign
+
+Refined Prompt:
+
+Role:
+You are a senior marketing manager and campaign planning expert with experience in luxury fashion brand positioning and multi-channel campaign execution.
+Objective:
+Create a detailed marketing campaign plan for launching a new, unique style of garments by a luxury fashion brand.
+Background:
+The brand is currently struggling to position itself effectively in the market and is launching a new distinctive garment line as a strategic move to re-establish its identity and stand out from competitors. The campaign needs to be impactful enough to meaningfully shift brand perception and drive real customer acquisition.
+Target Audience:
+Medium-income group females, aged 25 to 50, primarily located in North India, including both urban centers and nearby sub-urban areas.
+Requirements:
+
+Include both a physical/offline campaign (e.g., in-store events, pop-ups, print/OOH advertising, mall activations) and a digital campaign (social media, influencer marketing, digital ads, email/SMS marketing)
+Primary geographic focus: North India, with deliberate outreach extending into sub-urban areas near major urban centers (not just metro cities)
+Include launch discounts or introductory offers wherever feasible to drive initial trial and conversions (e.g., early-bird pricing, first-purchase discounts, referral incentives)
+Provide a clear campaign timeline/phasing (pre-launch, launch, post-launch sustenance)
+Include a suggested budget allocation breakdown across physical and digital channels
+Include suggested KPIs/success metrics to track campaign performance (footfall, engagement, conversions, sales, ROI)
+
+Constraints:
+
+The campaign must be strictly targeted at female customers aged 25 to 50 only
+Total campaign expenditure must not exceed a budget of ₹50 Lakh
+Village/rural areas must not be targeted — focus should remain on urban and sub-urban zones only
+
+Output Format:
+A detailed, structured marketing campaign plan document including: campaign objective summary, target audience profile, channel-wise strategy (physical + digital), geographic rollout plan, budget allocation breakdown, discount/offer strategy, timeline, and measurable success metrics/KPIs.
+Evaluation Criteria:
+
+The campaign must be realistically capable of generating profit and meaningful customer acquisition within the given budget
+Budget allocation must be practical and proportionate to expected reach and impact across both physical and digital channels
+The plan must clearly show how success/ROI will be measured post-campaign
+
+
+
