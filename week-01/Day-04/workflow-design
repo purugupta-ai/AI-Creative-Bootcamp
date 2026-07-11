@@ -1,0 +1,181 @@
+# Prompt Chain: Mathematics Coaching Brand Design
+### A 10-step connected workflow — each step's output becomes the next step's input
+
+**How to use this chain:** Run Step 1 first, take its output, paste it into the `[Background/Input]` placeholder of Step 2, and so on. By the end, every asset (name, tagline, logo, colors, poster, website, social plan, email, welcome kit, FAQ) will be consistent with each other because each step builds on the last.
+
+---
+
+## Step 1 — Brand Name
+
+**Role:** You are a senior brand naming strategist specializing in the education sector.
+**Objective:** Generate 5-7 strong brand name options for a new mathematics coaching institute.
+**Background:** A new coaching brand is launching, focused on teaching mathematics to school students (Class 9-12), aiming to feel modern, trustworthy, and results-driven — not old-fashioned or generic like typical local tuition centers.
+**Target Audience:** Parents and students (Class 9-12) evaluating coaching options.
+**Requirements:** Names should be short (1-3 words), easy to pronounce, memorable, and should subtly convey math/logic/growth/clarity. Provide a mix of styles: literal (math-related), abstract/evocative, and founder-style names.
+**Constraints:** Avoid generic terms already overused in coaching branding (e.g., "Academy," "Institute" alone); avoid names resembling existing well-known coaching brands.
+**Output Format:** A numbered list of 5-7 name options, each with a one-line rationale explaining the feel/meaning behind it.
+**Evaluation Criteria:** Names must be distinctive, easy to say and remember, and appropriate for a serious academic brand.
+
+➡️ **Carry forward to Step 2:** Pick your favorite name from this list.
+
+---
+
+## Step 2 — Tagline
+
+**Role:** You are a senior brand copywriter specializing in short-form, high-impact taglines.
+**Objective:** Write 5 tagline options for the brand name selected in Step 1.
+**Background/Input:** Brand name: **[insert chosen name from Step 1]**. This is a mathematics coaching brand for Class 9-12 students, positioned as modern, trustworthy, and results-driven.
+**Target Audience:** Parents and students evaluating coaching options.
+**Requirements:** Taglines should be short (under 6 words), emotionally resonant or benefit-driven, and should pair naturally with the brand name in tone and rhythm.
+**Constraints:** Avoid clichés ("Excellence in Education," "Your Path to Success"); avoid taglines that only make sense with the name removed.
+**Output Format:** A numbered list of 5 tagline options, each with a one-line note on the emotion/promise it conveys (e.g., confidence, clarity, growth).
+**Evaluation Criteria:** Tagline must feel natural next to the brand name and clearly signal "mathematics coaching" without being generic.
+
+➡️ **Carry forward to Step 3:** Pick your favorite tagline.
+
+---
+
+## Step 3 — Logo Idea
+
+**Role:** You are a senior logo designer specializing in education branding.
+**Objective:** Generate a detailed logo concept (described in words, ready to convert into an image-generation prompt) for the brand.
+**Background/Input:** Brand name: **[insert Step 1 output]**. Tagline: **[insert Step 2 output]**. This is a modern, trustworthy, results-driven mathematics coaching brand for Class 9-12 students.
+**Target Audience:** Parents and students; the logo will appear on the website, signage, and study materials.
+**Requirements:** Describe a logo mark that visually reflects mathematics (e.g., abstract geometric shapes, subtle graph/curve motifs, growth arrows) combined with the wordmark and tagline placement below it. Specify typography style (modern sans-serif or clean serif).
+**Constraints:** No literal clipart symbols (no calculators, no pi symbols used cheaply); must be original, not resembling existing coaching brand logos.
+**Output Format:** A detailed written logo concept description covering: mark shape/meaning, typography, layout (mark + wordmark + tagline placement), and overall feel — written so it can be turned directly into an image-generation prompt.
+**Evaluation Criteria:** Logo concept must feel professional, scalable to small sizes (e.g., app icon), and distinct from generic coaching center logos.
+
+➡️ **Carry forward to Step 4:** Use the logo concept's visual language (shapes, mood) to inform the color palette.
+
+---
+
+## Step 4 — Color Palette
+
+**Role:** You are a senior brand designer specializing in color theory and visual identity systems.
+**Objective:** Define a complete brand color palette (primary, secondary, accent, and neutral colors) based on the logo concept.
+**Background/Input:** Logo concept: **[insert Step 3 output]**. Brand name: **[insert Step 1 output]**. Tagline: **[insert Step 2 output]**.
+**Target Audience:** Will be applied across website, posters, social media, and printed materials — needs to appeal to both students and parents.
+**Requirements:** Provide 1 primary color, 1-2 secondary colors, 1 accent color (for CTAs/highlights), and 1-2 neutral tones (backgrounds/text). Include exact hex codes and a one-line rationale for each color choice (what emotion/quality it conveys).
+**Constraints:** Palette must feel modern and trustworthy — avoid overly playful/childish colors (this isn't a kids' brand) and avoid colors that feel outdated or "old tuition center" (e.g., dull maroon + beige combos).
+**Output Format:** A labeled color palette list (Primary / Secondary / Accent / Neutral) with hex codes and short rationale for each.
+**Evaluation Criteria:** Colors must work cohesively together, reflect the brand's modern-trustworthy positioning, and remain legible/accessible when paired (good contrast for text).
+
+➡️ **Carry forward to Step 5:** Use the full identity (name, tagline, logo, colors) to brief the poster design.
+
+---
+
+## Step 5 — Poster
+
+**Role:** You are a senior graphic designer specializing in educational marketing materials.
+**Objective:** Generate a detailed image-generation prompt for a promotional poster announcing the brand's launch/enrollment.
+**Background/Input:** Brand name: **[Step 1]**. Tagline: **[Step 2]**. Logo concept: **[Step 3]**. Color palette: **[Step 4]**.
+**Target Audience:** Parents and students (Class 9-12) who will see this poster in schools, coaching hubs, or on social media.
+**Requirements:** Poster should prominently feature the brand name, tagline, logo, and a short compelling headline (e.g., "Admissions Open" or a benefit-driven line), using the exact color palette from Step 4. Include space for key details (batch timings, contact info placeholder).
+**Constraints:** Must use only the defined color palette; no copyrighted imagery; text must remain legible at both large print size and small digital thumbnail.
+**Output Format:** A detailed image-generation prompt describing layout, headline text, logo placement, color usage, and overall composition — ready to paste into an image tool.
+**Evaluation Criteria:** Poster must feel cohesive with the brand identity defined in Steps 1-4, and communicate its core message within 3 seconds of viewing.
+
+➡️ **Carry forward to Step 6:** Use the same brand identity to write the website content.
+
+---
+
+## Step 6 — Website Content
+
+**Role:** You are a senior website content strategist and copywriter specializing in education brands.
+**Objective:** Write core website content (Homepage, About, and Courses section copy) for the brand.
+**Background/Input:** Brand name: **[Step 1]**. Tagline: **[Step 2]**. Brand tone established in Steps 1-5: modern, trustworthy, results-driven.
+**Target Audience:** Parents and students researching coaching options online.
+**Requirements:** Include: (1) Homepage hero section (headline + subheadline + CTA), (2) short About section (brand story/mission, 100-150 words), (3) Courses overview section listing what's offered (Class 9-12 math coaching, batch types, teaching approach).
+**Constraints:** Keep tone consistent with the tagline's promise; avoid generic filler text ("We are the best institute..."); keep each section concise and scannable.
+**Output Format:** Website copy organized by section with clear headings (Homepage, About, Courses), ready to paste into a website builder.
+**Evaluation Criteria:** Content must be persuasive, trustworthy, and consistent in tone with the brand name and tagline established earlier in the chain.
+
+➡️ **Carry forward to Step 7:** Use the website's key messages as the foundation for the social media plan.
+
+---
+
+## Step 7 — Social Media Plan
+
+**Role:** You are a senior social media strategist specializing in education brands.
+**Objective:** Create a 2-week social media content plan to support the brand's launch.
+**Background/Input:** Brand name: **[Step 1]**. Tagline: **[Step 2]**. Website messaging: **[Step 6]**. Color palette: **[Step 4]** (for visual consistency).
+**Target Audience:** Parents and students on platforms like Instagram and Facebook.
+**Requirements:** Provide a content calendar with post ideas across categories: educational tips, brand story/introduction, testimonials/social proof (placeholder), promotional/enrollment posts, and engagement posts (polls/questions). Specify platform, post type (image/carousel/reel), and a short caption idea for each.
+**Constraints:** Keep tone consistent with website copy; avoid overly salesy language in more than 30% of posts (most should be value-driven, not just promotional).
+**Output Format:** A table or day-wise list (14 days) with: Day, Platform, Post Type, Content Idea, Caption snippet.
+**Evaluation Criteria:** Plan must balance promotional and value-driven content, and stay consistent with the brand voice established in Steps 1-6.
+
+➡️ **Carry forward to Step 8:** Use the launch messaging to design the email campaign.
+
+---
+
+## Step 8 — Email Campaign
+
+**Role:** You are a senior email marketing strategist specializing in education/enrollment campaigns.
+**Objective:** Write a 3-email welcome/enrollment sequence for new leads (parents who showed interest).
+**Background/Input:** Brand name: **[Step 1]**. Tagline: **[Step 2]**. Website messaging: **[Step 6]**. Social media tone: **[Step 7]**.
+**Target Audience:** Parents who have shown interest (e.g., filled a form or attended a demo class) but haven't enrolled yet.
+**Requirements:** Email 1: Welcome + brand introduction. Email 2: Value/differentiation (why this coaching approach works, teaching methodology). Email 3: Urgency/CTA (limited seats, enroll now, next batch starting date placeholder). Each email needs a subject line and body.
+**Constraints:** Keep each email under 150 words; one clear CTA per email; tone must match the trustworthy, modern brand voice from earlier steps.
+**Output Format:** 3 emails, each with Subject Line + Body, clearly labeled Email 1/2/3.
+**Evaluation Criteria:** Sequence must build logically (introduce → convince → convert), and remain consistent with brand tone throughout.
+
+➡️ **Carry forward to Step 9:** Use the brand tone and website content to design the welcome kit for enrolled students.
+
+---
+
+## Step 9 — Student Welcome Kit
+
+**Role:** You are a senior customer experience and content designer specializing in onboarding materials.
+**Objective:** Design the content structure for a welcome kit given to newly enrolled students.
+**Background/Input:** Brand name: **[Step 1]**. Tagline: **[Step 2]**. Website/brand tone: **[Step 6]**. Color palette: **[Step 4]** (for visual design of physical/digital kit materials).
+**Target Audience:** Newly enrolled students (Class 9-12) and their parents.
+**Requirements:** Include: (1) a short welcome letter/message, (2) what's included in the kit (e.g., study planner, syllabus overview, batch schedule, contact info card), (3) a short "getting started" checklist for the student's first week.
+**Constraints:** Tone should feel warm and encouraging (different from marketing tone — this is for already-enrolled students), while staying visually/verbally consistent with the brand identity.
+**Output Format:** A structured content list with section headings (Welcome Message, Kit Contents, First-Week Checklist), ready to be formatted into a printed or digital welcome kit.
+**Evaluation Criteria:** Content must feel personal and reassuring, while remaining consistent with the brand's established tone and identity.
+
+➡️ **Carry forward to Step 10:** Use all prior brand messaging to anticipate and answer common questions.
+
+---
+
+## Step 10 — FAQ
+
+**Role:** You are a senior customer support content writer specializing in education brands.
+**Objective:** Write a comprehensive FAQ section addressing common parent and student questions.
+**Background/Input:** Brand name: **[Step 1]**. Website content: **[Step 6]**. Welcome kit content: **[Step 9]** (for consistency on enrollment/logistics details).
+**Target Audience:** Prospective and current parents/students with questions about the coaching program.
+**Requirements:** Cover categories: (1) About the program (teaching methodology, batch sizes, class 9-12 coverage), (2) Enrollment & Fees (process, payment, refund policy placeholder), (3) Logistics (timings, online/offline mode, study material), (4) Support (how to contact, doubt-clearing process). Provide 2-3 questions per category.
+**Constraints:** Answers must be clear, concise (2-3 sentences each), and consistent with information already established in the website content and welcome kit.
+**Output Format:** FAQ organized by category with clear headings, each question followed directly by its answer.
+**Evaluation Criteria:** FAQ must be comprehensive enough to reduce repetitive support queries, and consistent in tone and fact with all previous brand assets in this chain.
+
+---
+
+## Chain Summary
+
+```
+Step 1: Brand Name
+   ↓ (name)
+Step 2: Tagline
+   ↓ (name + tagline)
+Step 3: Logo Idea
+   ↓ (name + tagline + logo concept)
+Step 4: Color Palette
+   ↓ (name + tagline + logo + colors)
+Step 5: Poster
+   ↓ (full identity)
+Step 6: Website Content
+   ↓ (name + tagline + tone)
+Step 7: Social Media Plan
+   ↓ (name + tagline + website messaging)
+Step 8: Email Campaign
+   ↓ (name + tagline + website + social tone)
+Step 9: Student Welcome Kit
+   ↓ (name + tagline + website tone + colors)
+Step 10: FAQ
+   (name + website content + welcome kit)
+```
+
+Every downstream step explicitly references the outputs of earlier steps in its **Background/Input** field — this is what keeps the entire brand system consistent end to end.
