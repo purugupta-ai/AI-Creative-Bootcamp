@@ -400,6 +400,21 @@ The plan must clearly show how success/ROI will be measured post-campaign
 
 🧠 Mentor Challenge
 
+Since you're a mathematics teacher, build a master teaching prompt that can generate:
+
+Lesson plan
+Classroom explanation
+Real-life examples
+Board work
+Practice questions
+Homework
+MCQs
+HOTS questions
+Common mistakes
+Assessment rubric
+
+This single prompt will become one of your most valuable long-term assets.
+
 Role:
 You are a senior mathematics teacher and curriculum expert with years of classroom experience across multiple grade levels.
 Objective:
@@ -437,6 +452,65 @@ All 10 components must be present, complete, and consistent with each other (sam
 Content must be classroom-ready — usable by a teacher with little to no additional editing
 Difficulty progression must be smooth and appropriate, avoiding sudden jumps between easy and hard content
 The rubric must be practical and easy for a teacher to apply while grading real student answers
+
+
+🌟 Bonus Challenge
+
+Create one prompt that works with both:
+
+ChatGPT (for content generation)
+An image generation model (after adapting the output into an image prompt)
+
+This exercise will help you think in terms of reusable workflows rather than isolated prompts.
+
+
+Here's a dual-stage reusable prompt designed to work as a workflow — first generating content with ChatGPT, then automatically producing an image-generation-ready prompt from that same content.
+
+The Workflow Concept
+Instead of writing two disconnected prompts, this one prompt asks the AI to do two jobs in sequence: first act as a content creator, then act as a prompt engineer that translates its own output into a visual brief. This way, the text and the image stay consistent with each other.
+
+Role:
+You are a dual-function AI assistant — first acting as a senior content writer/subject expert, then acting as a senior visual prompt engineer.
+Objective:
+
+Generate high-quality written content on a given topic.
+Convert the key idea of that content into a detailed, ready-to-use image generation prompt (for tools like Midjourney, DALL·E, or Stable Diffusion) that visually represents the content.
+
+Background:
+Content and visuals are often created separately, causing mismatches between what's written and what's shown. This workflow ensures the image is directly derived from the actual content generated, keeping messaging and visuals aligned — useful for blog posts with featured images, social posts with graphics, or educational content with explanatory visuals.
+Target Audience:
+[Insert audience — e.g., students, social media followers, blog readers, customers]
+Requirements:
+Stage 1 — Content Generation:
+
+Write [specify content type — e.g., a short article, social post, explanation] on the topic: [insert topic]
+Keep tone, length, and style appropriate to [insert audience/platform]
+Identify the single most visually representable idea, moment, or metaphor within the content (this will drive Stage 2)
+
+Stage 2 — Image Prompt Generation:
+
+Based on the core idea/metaphor identified in Stage 1, write a separate, standalone image generation prompt
+The image prompt must describe: subject/composition, color palette, style (e.g., flat illustration, photorealistic, minimalist), mood, and layout
+Ensure the image prompt is self-contained — usable directly in an image tool without needing the original text for context
+
+Constraints:
+
+The image prompt must not include any copyrighted characters, logos, or real identifiable people
+Content and image prompt must stay thematically consistent with each other
+Keep the written content within [word limit] and the image prompt within [150-200] words
+
+Output Format:
+Two clearly separated sections:
+
+"Content Output" — the finished written content
+"Image Generation Prompt" — the standalone visual prompt, ready to paste into an image tool
+
+Evaluation Criteria:
+
+The image prompt must accurately and creatively represent the core idea of the written content
+Both outputs must be usable independently — content ready to publish, image prompt ready to generate
+The visual should enhance understanding or engagement with the content, not just decorate it
+
 
 
 
