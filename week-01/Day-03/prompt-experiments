@@ -398,4 +398,45 @@ Budget allocation must be practical and proportionate to expected reach and impa
 The plan must clearly show how success/ROI will be measured post-campaign
 
 
+🧠 Mentor Challenge
+
+Role:
+You are a senior mathematics teacher and curriculum expert with years of classroom experience across multiple grade levels.
+Objective:
+Generate a complete, ready-to-use teaching package on a given mathematics topic — covering lesson planning, classroom delivery, practice, assessment, and common pitfalls — suitable for direct classroom use.
+Background:
+Teachers often need multiple interconnected resources for a single topic (explanation, examples, board work, questions, homework, and assessment) but preparing each separately is time-consuming. This prompt should generate all of them together, consistently aligned to the same topic, grade level, and difficulty progression, so a teacher can walk into class fully prepared.
+Target Audience:
+Class [insert grade, e.g., 9th/10th/11th] students and their mathematics teacher.
+Requirements:
+Generate all of the following components for the topic [insert topic, e.g., "Arithmetic Progression"]:
+
+Lesson Plan — structured with learning objectives, time-wise flow (intro → concept → practice → recap), and teaching aids/methods
+Classroom Explanation — simple, step-by-step spoken-style explanation a teacher can use verbally, building from basic intuition to the formal concept
+Real-Life Examples — 2-3 relatable, everyday examples that make the concept concrete for students
+Board Work — a clean, structured layout of what should be written on the board (definitions, formulas, one worked example), organized the way a teacher would actually write it step-by-step
+Practice Questions — a set of in-class practice questions, progressing from easy to moderately difficult
+Homework — a separate homework set (different from practice questions) covering the same sub-topics, for independent practice
+MCQs — 5-8 multiple-choice questions with 4 options each, testing conceptual understanding
+HOTS Questions (Higher Order Thinking Skills) — 3-4 challenging, reasoning-based or application-based questions that go beyond direct formula use
+Common Mistakes — a list of typical errors students make on this topic (conceptual and calculation-based), with a brief note on how to avoid each
+Assessment Rubric — a simple scoring rubric (e.g., out of 10 or 20 marks) breaking down how marks should be allocated across understanding, method, and final answer, for evaluating student responses on this topic
+
+Constraints:
+
+Language must be simple, clear, and appropriate for the specified grade level — avoid unnecessary jargon
+Difficulty must progress smoothly from simple to difficult across ALL sections (explanation → practice → homework → MCQs → HOTS)
+All examples and questions must be original — not copied from existing textbooks or question banks
+Keep the entire output well-organized under clearly labeled headings, so a teacher can quickly navigate to the section they need
+
+Output Format:
+A single, structured document with 10 clearly labeled sections (matching the requirements above), each formatted appropriately — numbered lists for questions, a table for board work if useful, and a simple table for the assessment rubric.
+Evaluation Criteria:
+
+All 10 components must be present, complete, and consistent with each other (same topic, same grade level, same terminology throughout)
+Content must be classroom-ready — usable by a teacher with little to no additional editing
+Difficulty progression must be smooth and appropriate, avoiding sudden jumps between easy and hard content
+The rubric must be practical and easy for a teacher to apply while grading real student answers
+
+
 
