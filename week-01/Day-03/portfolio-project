@@ -1,0 +1,257 @@
+# Prompt Collection #1
+### 20 Reusable, Structured Prompts (Education | Design | Marketing | Coding & Productivity)
+
+Each prompt follows a consistent structure for clarity and reusability:
+**Role → Objective → Background → Target Audience → Requirements → Constraints → Output Format → Evaluation Criteria**
+
+---
+
+## 📚 Education (5)
+
+### 1. Lesson Plan
+**Role:** You are an experienced subject teacher and curriculum designer.
+**Objective:** Create a complete, ready-to-teach lesson plan on [topic] for [grade/class].
+**Background:** The lesson is part of a standard school curriculum and will be delivered in a single class period to a mixed-ability classroom.
+**Target Audience:** [Grade level] students and their subject teacher.
+**Requirements:** Include learning objectives, an introduction/hook, step-by-step teaching flow, in-class activities, examples, and a short recap/summary.
+**Constraints:** Must fit within a [40/60]-minute class period; language must match the comprehension level of the target grade.
+**Output Format:** A structured lesson plan with clear time-stamped sections and headings.
+**Evaluation Criteria:** Clarity, logical flow from simple to complex, and practical usability in a real classroom.
+
+---
+
+### 2. Quiz
+**Role:** You are a subject-matter expert and assessment designer.
+**Objective:** Create a [number]-question quiz on [topic] to test student understanding.
+**Background:** The quiz will be used as a short in-class or homework assessment after teaching the topic.
+**Target Audience:** [Grade level] students.
+**Requirements:** Mix of question types (MCQs, short answer, true/false); difficulty progressing from easy to hard; include an answer key.
+**Constraints:** Must strictly contain [number] questions; no ambiguous or trick questions.
+**Output Format:** Numbered quiz questions followed by a separate, clearly labeled answer key.
+**Evaluation Criteria:** Questions must accurately test the intended concept and be free of ambiguity.
+
+---
+
+### 3. Homework
+**Role:** You are a subject teacher assigning practice work.
+**Objective:** Create a homework assignment on [topic] to reinforce classroom learning.
+**Background:** Students have just completed a lesson on this topic and need independent practice.
+**Target Audience:** [Grade level] students.
+**Requirements:** Include a range of question difficulty, cover all sub-topics taught, and provide brief instructions for each section.
+**Constraints:** Should be completable within [X] minutes/hours without additional teacher supervision.
+**Output Format:** A clearly sectioned homework sheet with instructions and numbered questions.
+**Evaluation Criteria:** Questions must reinforce (not exceed) what was taught in class, with appropriate difficulty progression.
+
+---
+
+### 4. Worksheet
+**Role:** You are an instructional content designer.
+**Objective:** Create a practice worksheet on [topic] for skill reinforcement.
+**Background:** The worksheet will be used for either classroom practice or self-study.
+**Target Audience:** [Grade level] students.
+**Requirements:** Include a short concept recap, guided examples, and practice problems with increasing difficulty.
+**Constraints:** Keep to one page/section per sub-topic; avoid overly complex problems not yet covered.
+**Output Format:** A structured worksheet with concept summary, examples, and practice questions (answer key optional).
+**Evaluation Criteria:** Should build confidence through guided practice before independent problem-solving.
+
+---
+
+### 5. Parent Communication
+**Role:** You are a class teacher drafting communication for parents.
+**Objective:** Write a clear, professional message to parents about [topic — e.g., student progress, upcoming event, concern].
+**Background:** This communication will be sent via school app/email to parents of students in [grade/class].
+**Target Audience:** Parents/guardians of school students.
+**Requirements:** Polite, clear, and informative tone; include relevant details (dates, actions needed, contact info).
+**Constraints:** Keep it concise (under 150 words); avoid technical/education jargon.
+**Output Format:** A ready-to-send message (email or notice format) with a clear subject line.
+**Evaluation Criteria:** Message must be unambiguous, respectful, and actionable for parents.
+
+---
+
+## 🎨 Design (5)
+
+### 6. Logo
+**Role:** You are a senior logo designer.
+**Objective:** Design a logo for [brand name/type of business].
+**Background:** [Brief brand context — new brand, rebrand, industry, etc.]
+**Target Audience:** [Describe brand's customer base].
+**Requirements:** Modern, distinctive design; specify color palette, style (minimalist/abstract/wordmark), and any symbolic elements to include.
+**Constraints:** Must be original (no resemblance to existing logos); avoid [specific exclusions, e.g., animal imagery, certain colors].
+**Output Format:** A detailed image-generation prompt describing the logo mark, typography, colors, and layout.
+**Evaluation Criteria:** Originality, scalability across sizes/platforms, and alignment with brand identity.
+
+---
+
+### 7. Poster
+**Role:** You are a senior graphic designer specializing in print and digital posters.
+**Objective:** Design a poster to promote [event/product/cause].
+**Background:** [Context — event details, purpose, launch, etc.]
+**Target Audience:** [Who will see this poster].
+**Requirements:** Eye-catching visual hierarchy, bold headline text, key details (date/place/offer) clearly visible, consistent brand colors.
+**Constraints:** Must remain legible at both large print size and small digital thumbnail; no copyrighted imagery.
+**Output Format:** A detailed image-generation prompt covering layout, text placement, color scheme, and visual style.
+**Evaluation Criteria:** Clarity of message at a glance, visual appeal, and legibility across sizes.
+
+---
+
+### 8. Banner
+**Role:** You are a senior digital designer specializing in web and social banners.
+**Objective:** Design a banner for [website/campaign/promotion].
+**Background:** [Context — where the banner will be used, campaign purpose].
+**Target Audience:** [Website visitors / campaign audience].
+**Requirements:** Clear call-to-action, concise headline, brand-consistent colors and fonts, balanced composition.
+**Constraints:** Must fit standard banner dimensions ([specify size, e.g., 1200x300px]); avoid cluttered text.
+**Output Format:** A detailed image-generation prompt specifying layout, text, colors, and dimensions.
+**Evaluation Criteria:** Message clarity within 3 seconds of viewing, and adherence to size/platform constraints.
+
+---
+
+### 9. Social Media Post
+**Role:** You are a senior social media graphic designer.
+**Objective:** Design a social media post visual for [platform] promoting [topic/product/announcement].
+**Background:** [Context — campaign, brand voice, occasion].
+**Target Audience:** [Platform's typical audience, e.g., Instagram users aged 18-35].
+**Requirements:** Scroll-stopping visual, on-brand colors/fonts, short punchy text overlay, platform-appropriate dimensions.
+**Constraints:** Must follow platform-specific size guidelines (e.g., 1080x1080 for Instagram square); no copyrighted material.
+**Output Format:** A detailed image-generation prompt including composition, text, and color palette.
+**Evaluation Criteria:** Visual appeal, brand consistency, and effectiveness in stopping the scroll.
+
+---
+
+### 10. Brochure
+**Role:** You are a senior print/digital brochure designer.
+**Objective:** Design a brochure for [business/product/service].
+**Background:** [Context — purpose of brochure, distribution method].
+**Target Audience:** [Who will receive/read this brochure].
+**Requirements:** Clear sectioning (cover, inside info, contact/CTA), consistent branding, professional layout with visual and text balance.
+**Constraints:** Must fit standard brochure fold format (e.g., tri-fold A4); avoid overcrowding with text.
+**Output Format:** A detailed design specification/prompt covering each panel's content and layout.
+**Evaluation Criteria:** Information clarity, visual professionalism, and ease of navigation through panels.
+
+---
+
+## 📢 Marketing (5)
+
+### 11. LinkedIn Post
+**Role:** You are a senior content marketer specializing in professional/B2B communication.
+**Objective:** Write a LinkedIn post about [topic/announcement/insight].
+**Background:** [Context — company update, thought leadership, product launch, etc.]
+**Target Audience:** [Professional audience — e.g., industry peers, potential clients, recruiters].
+**Requirements:** Engaging hook in the first line, clear value/insight, professional yet conversational tone, relevant hashtags.
+**Constraints:** Keep under [200-300] words; avoid overly salesy language.
+**Output Format:** A ready-to-post LinkedIn text with suggested hashtags.
+**Evaluation Criteria:** Engagement potential (likes/comments), professionalism, and clarity of message.
+
+---
+
+### 12. Email Campaign
+**Role:** You are a senior email marketing strategist.
+**Objective:** Write an email campaign for [product launch/promotion/newsletter].
+**Background:** [Context — campaign goal, audience segment, occasion].
+**Target Audience:** [Subscriber segment — e.g., existing customers, new leads].
+**Requirements:** Compelling subject line, clear body structure (hook, value, CTA), personalization placeholders, mobile-friendly formatting.
+**Constraints:** Keep body concise (under 150 words); one clear CTA only.
+**Output Format:** Subject line + email body, ready to insert into an email marketing tool.
+**Evaluation Criteria:** Open-rate potential (subject line strength), clarity of CTA, and relevance to audience.
+
+---
+
+### 13. Instagram Caption
+**Role:** You are a senior social media copywriter.
+**Objective:** Write an Instagram caption for [post topic/product/campaign].
+**Background:** [Context — brand voice, occasion, campaign].
+**Target Audience:** [Instagram audience demographic].
+**Requirements:** Catchy opening line, concise and relatable tone, relevant emojis (if appropriate), call-to-action, hashtag suggestions.
+**Constraints:** Keep under [125] words; avoid overly promotional language.
+**Output Format:** Ready-to-post caption text with hashtag list.
+**Evaluation Criteria:** Engagement potential and alignment with brand voice.
+
+---
+
+### 14. Ad Copy
+**Role:** You are a senior performance marketing copywriter.
+**Objective:** Write ad copy for [platform, e.g., Google Ads/Facebook Ads] promoting [product/service].
+**Background:** [Context — campaign goal, offer details].
+**Target Audience:** [Specific customer segment being targeted].
+**Requirements:** Strong headline, clear value proposition, urgency/CTA, benefit-focused language.
+**Constraints:** Must fit platform character limits (e.g., Google Ads: 30-character headlines, 90-character descriptions).
+**Output Format:** Headline + description variations (2-3 options), ready for ad platform input.
+**Evaluation Criteria:** Clarity of offer, persuasiveness, and adherence to character limits.
+
+---
+
+### 15. Product Description
+**Role:** You are a senior e-commerce copywriter.
+**Objective:** Write a product description for [product name/type].
+**Background:** [Context — product features, brand positioning].
+**Target Audience:** [Target customer profile for this product].
+**Requirements:** Highlight key features and benefits, sensory/descriptive language, include specifications where relevant, persuasive closing line.
+**Constraints:** Keep within [100-150] words; avoid exaggerated or misleading claims.
+**Output Format:** A ready-to-publish product description for an e-commerce listing.
+**Evaluation Criteria:** Clarity, persuasiveness, and accuracy of product representation.
+
+---
+
+## 💻 Coding / Productivity (5)
+
+### 16. Python Debugging
+**Role:** You are a senior Python developer and code reviewer.
+**Objective:** Identify and fix the bug(s) in the provided Python code.
+**Background:** [Brief context of what the code is supposed to do].
+**Target Audience:** [Developer/student who wrote the code].
+**Requirements:** Explain what's causing the error, provide the corrected code, and briefly explain the fix in plain language.
+**Constraints:** Preserve the original logic/intent of the code; avoid unnecessary rewrites beyond fixing the bug.
+**Output Format:** Corrected code block followed by a short explanation of the fix.
+**Evaluation Criteria:** Fix must resolve the actual bug without introducing new issues, and explanation must be beginner-understandable.
+
+---
+
+### 17. SQL Query Explanation
+**Role:** You are a senior database engineer and SQL instructor.
+**Objective:** Explain what the given SQL query does, step by step.
+**Background:** [Context — purpose of the query, database structure if relevant].
+**Target Audience:** [Someone learning SQL or reviewing unfamiliar code].
+**Requirements:** Break down each clause (SELECT, WHERE, JOIN, GROUP BY, etc.), explain the logical flow, and describe the expected output.
+**Constraints:** Avoid unnecessary technical jargon; keep explanation beginner-friendly unless specified otherwise.
+**Output Format:** Step-by-step explanation, optionally with a plain-English summary of the query's purpose.
+**Evaluation Criteria:** Explanation must be accurate and understandable to someone with basic SQL knowledge.
+
+---
+
+### 18. Code Documentation
+**Role:** You are a senior software engineer specializing in technical documentation.
+**Objective:** Write clear documentation for the provided code/function/module.
+**Background:** [Context — what the code does, its role in the larger project].
+**Target Audience:** [Other developers who will maintain or use this code].
+**Requirements:** Include a summary, parameter/argument descriptions, return values, usage example, and any important notes/edge cases.
+**Constraints:** Follow standard documentation conventions (e.g., docstring format) for the given language.
+**Output Format:** Properly formatted documentation/docstring block.
+**Evaluation Criteria:** Completeness, clarity, and usability for another developer picking up the code.
+
+---
+
+### 19. Resume Improvement
+**Role:** You are a senior career coach and resume writing expert.
+**Objective:** Review and improve the provided resume/resume section for [target role/industry].
+**Background:** [Context — candidate's experience level, target job type].
+**Target Audience:** [The job seeker submitting this resume].
+**Requirements:** Strengthen weak bullet points using action verbs and measurable impact, improve clarity and formatting consistency, align content with the target role.
+**Constraints:** Do not fabricate experience or achievements; keep edits realistic and truthful to the original content.
+**Output Format:** Revised resume section(s) with brief notes on what was changed and why.
+**Evaluation Criteria:** Improved clarity, impact, and relevance to the target role, without exaggeration.
+
+---
+
+### 20. Meeting Summary
+**Role:** You are a senior executive assistant skilled in concise business communication.
+**Objective:** Summarize the provided meeting notes/transcript into a clear, actionable summary.
+**Background:** [Context — type of meeting, purpose, attendees if relevant].
+**Target Audience:** [Team members/stakeholders who need the summary].
+**Requirements:** Include key discussion points, decisions made, and clear action items with owners/deadlines if mentioned.
+**Constraints:** Keep it concise (under 200 words); avoid including irrelevant side discussions.
+**Output Format:** A structured summary with sections for Key Points, Decisions, and Action Items.
+**Evaluation Criteria:** Accuracy, conciseness, and clarity of action items for follow-up.
+
+---
+
+*End of Prompt Collection #1 — 20 reusable prompts across Education, Design, Marketing, and Coding/Productivity.*
